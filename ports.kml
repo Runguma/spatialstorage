@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ports" id="ports">
+	<SimpleField name="Id" type="int"></SimpleField>
+	<SimpleField name="Lat_Y" type="float"></SimpleField>
+	<SimpleField name="Long_X" type="float"></SimpleField>
+</Schema>
+<Folder><name>ports</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ports">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Lat_Y">-4.06713378235</SimpleData>
+		<SimpleData name="Long_X">39.7712695783</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.7712695782585,-4.06713378235115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ports">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Lat_Y">-3.63541603088</SimpleData>
+		<SimpleData name="Long_X">39.8681945801</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.8681945800784,-3.63541603088379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ports">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Lat_Y">-3.21179720095</SimpleData>
+		<SimpleData name="Long_X">40.1420499533</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>40.1420499533396,-3.21179720094788</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

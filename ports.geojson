@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "ports",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "Lat_Y": -4.06713378235, "Long_X": 39.7712695783 }, "geometry": { "type": "Point", "coordinates": [ 4427317.477653747424483, -453131.965791544294916 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Lat_Y": -3.6354160308800001, "Long_X": 39.868194580100003 }, "geometry": { "type": "Point", "coordinates": [ 4438107.119501478970051, -404964.47702331840992 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Lat_Y": -3.21179720095, "Long_X": 40.142049953300003 }, "geometry": { "type": "Point", "coordinates": [ 4468592.560203913599253, -357723.024973661347758 ] } }
+]
+}
