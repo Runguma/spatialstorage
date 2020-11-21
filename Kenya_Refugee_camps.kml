@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Kenya_Refugee_camps" id="Kenya_Refugee_camps">
+	<SimpleField name="Id" type="int"></SimpleField>
+	<SimpleField name="Population" type="float"></SimpleField>
+</Schema>
+<Folder><name>Kenya_Refugee_camps</name>
+  <Placemark>
+	<name>Dagahaley Refugee Camp</name>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Refugee_camps">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Population">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>40.2868721,0.1900067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hagadera Refugee Camp</name>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Refugee_camps">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Population">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>40.3701788,0.003132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ifo 2 Refugee Camp</name>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Refugee_camps">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Population">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>40.3184674,0.1458899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dadaab</name>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Refugee_camps">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Population">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>40.30764,0.0525551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kambioos Refugee Camp</name>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Refugee_camps">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Population">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>40.3811535,-0.0422465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kalobeyei Refugee Settlement</name>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Refugee_camps">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Population">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7302821,3.7692174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kakuma I Refugee Camp</name>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Refugee_camps">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Population">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8387193,3.73801860000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kakuma IV Refugee Camp</name>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Refugee_camps">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Population">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8098588,3.7390249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kakuma III Refugee Camp</name>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Refugee_camps">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Population">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8149872,3.7540774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kakuma II Refugee Camp</name>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Refugee_camps">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Population">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8354568394927,3.74923328327859</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="international_airports" id="international_airports">
+	<SimpleField name="OBJECTID" type="float"></SimpleField>
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="ident" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="latitude_d" type="float"></SimpleField>
+	<SimpleField name="longitude_" type="float"></SimpleField>
+	<SimpleField name="elevation_" type="float"></SimpleField>
+	<SimpleField name="continent" type="string"></SimpleField>
+	<SimpleField name="iso_countr" type="string"></SimpleField>
+	<SimpleField name="iso_region" type="string"></SimpleField>
+	<SimpleField name="municipali" type="string"></SimpleField>
+	<SimpleField name="scheduled_" type="float"></SimpleField>
+	<SimpleField name="gps_code" type="string"></SimpleField>
+	<SimpleField name="iata_code" type="string"></SimpleField>
+	<SimpleField name="Object_ID" type="float"></SimpleField>
+	<SimpleField name="score" type="float"></SimpleField>
+	<SimpleField name="County" type="string"></SimpleField>
+	<SimpleField name="Gnd_Surfac" type="string"></SimpleField>
+	<SimpleField name="RWY_O" type="string"></SimpleField>
+	<SimpleField name="Grnd_Servi" type="string"></SimpleField>
+	<SimpleField name="Supervisor" type="string"></SimpleField>
+	<SimpleField name="Hours_OP" type="string"></SimpleField>
+	<SimpleField name="Lat_Y" type="float"></SimpleField>
+	<SimpleField name="Long_X" type="float"></SimpleField>
+</Schema>
+<Folder><name>international_airports</name>
+  <Placemark>
+	<name>Jomo Kenyatta International Airport</name>
+	<ExtendedData><SchemaData schemaUrl="#international_airports">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="id">3206</SimpleData>
+		<SimpleData name="ident">HKJK</SimpleData>
+		<SimpleData name="type">International</SimpleData>
+		<SimpleData name="latitude_d">-1.31923997400</SimpleData>
+		<SimpleData name="longitude_">36.92779922000</SimpleData>
+		<SimpleData name="elevation_">5330</SimpleData>
+		<SimpleData name="continent">AF</SimpleData>
+		<SimpleData name="iso_countr">KE</SimpleData>
+		<SimpleData name="iso_region">KE-110</SimpleData>
+		<SimpleData name="municipali">Nairobi</SimpleData>
+		<SimpleData name="scheduled_">1</SimpleData>
+		<SimpleData name="gps_code">HKJK</SimpleData>
+		<SimpleData name="iata_code">NBO</SimpleData>
+		<SimpleData name="Object_ID">1</SimpleData>
+		<SimpleData name="score">1200</SimpleData>
+		<SimpleData name="County">NAIROBI</SimpleData>
+		<SimpleData name="Lat_Y">-1.32179113228</SimpleData>
+		<SimpleData name="Long_X">36.92736644510</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.9273664450537,-1.32179113227534,5330.000024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mombasa Moi International Airport</name>
+	<ExtendedData><SchemaData schemaUrl="#international_airports">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="id">3213</SimpleData>
+		<SimpleData name="ident">HKMO</SimpleData>
+		<SimpleData name="type">International</SimpleData>
+		<SimpleData name="latitude_d">-4.03483009300</SimpleData>
+		<SimpleData name="longitude_">39.59420013000</SimpleData>
+		<SimpleData name="elevation_">200</SimpleData>
+		<SimpleData name="continent">AF</SimpleData>
+		<SimpleData name="iso_countr">KE</SimpleData>
+		<SimpleData name="iso_region">KE-300</SimpleData>
+		<SimpleData name="municipali">Mombasa</SimpleData>
+		<SimpleData name="scheduled_">1</SimpleData>
+		<SimpleData name="gps_code">HKMO</SimpleData>
+		<SimpleData name="iata_code">MBA</SimpleData>
+		<SimpleData name="Object_ID">2</SimpleData>
+		<SimpleData name="score">1050</SimpleData>
+		<SimpleData name="Lat_Y">-4.03700919143</SimpleData>
+		<SimpleData name="Long_X">39.59369818880</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.593698188802,-4.03700919142619,200.000023999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eldoret International Airport</name>
+	<ExtendedData><SchemaData schemaUrl="#international_airports">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="id">3205</SimpleData>
+		<SimpleData name="ident">HKEL</SimpleData>
+		<SimpleData name="type">International</SimpleData>
+		<SimpleData name="latitude_d">0.40445798600</SimpleData>
+		<SimpleData name="longitude_">35.23889923000</SimpleData>
+		<SimpleData name="elevation_">6941</SimpleData>
+		<SimpleData name="continent">AF</SimpleData>
+		<SimpleData name="iso_countr">KE</SimpleData>
+		<SimpleData name="iso_region">KE-700</SimpleData>
+		<SimpleData name="municipali">Eldoret</SimpleData>
+		<SimpleData name="scheduled_">1</SimpleData>
+		<SimpleData name="gps_code">HKEL</SimpleData>
+		<SimpleData name="iata_code">EDL</SimpleData>
+		<SimpleData name="Object_ID">4</SimpleData>
+		<SimpleData name="score">575</SimpleData>
+		<SimpleData name="Lat_Y">0.40167194457</SimpleData>
+		<SimpleData name="Long_X">35.23851015260</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.2385101525907,0.401671944572478,6941.000024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kisumu International  Airport</name>
+	<ExtendedData><SchemaData schemaUrl="#international_airports">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="id">3208</SimpleData>
+		<SimpleData name="ident">HKKI</SimpleData>
+		<SimpleData name="type">International</SimpleData>
+		<SimpleData name="latitude_d">-0.08613900100</SimpleData>
+		<SimpleData name="longitude_">34.72890091000</SimpleData>
+		<SimpleData name="elevation_">3734</SimpleData>
+		<SimpleData name="continent">AF</SimpleData>
+		<SimpleData name="iso_countr">KE</SimpleData>
+		<SimpleData name="iso_region">KE-600</SimpleData>
+		<SimpleData name="municipali">Kisumu</SimpleData>
+		<SimpleData name="scheduled_">1</SimpleData>
+		<SimpleData name="gps_code">HKKI</SimpleData>
+		<SimpleData name="iata_code">KIS</SimpleData>
+		<SimpleData name="Object_ID">13</SimpleData>
+		<SimpleData name="score">800</SimpleData>
+		<SimpleData name="County">KISUMU</SimpleData>
+		<SimpleData name="Lat_Y">-0.08885834784</SimpleData>
+		<SimpleData name="Long_X">34.72852507360</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7285250736486,-0.08885834784431,3734.000024</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
