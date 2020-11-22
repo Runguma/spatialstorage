@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Kakuma_Education" id="Kakuma_Education">
+	<SimpleField name="OBJECTID" type="float"></SimpleField>
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Location" type="string"></SimpleField>
+	<SimpleField name="Area" type="string"></SimpleField>
+	<SimpleField name="Status" type="string"></SimpleField>
+</Schema>
+<Folder><name>Kakuma_Education</name>
+  <Placemark>
+	<name>Vocational Training Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="Latitude">3.76317749783</SimpleData>
+		<SimpleData name="Longitude">34.72313439960</SimpleData>
+		<SimpleData name="Location">Kalobeyei Settlement</SimpleData>
+		<SimpleData name="Area">Village one</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7231343996,3.76317749783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vision Secondary School</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="ID">2</SimpleData>
+		<SimpleData name="Latitude">3.73871224625</SimpleData>
+		<SimpleData name="Longitude">34.81011822110</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 4</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8101182211,3.73871224625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Unity Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="ID">3</SimpleData>
+		<SimpleData name="Latitude">3.72541361026</SimpleData>
+		<SimpleData name="Longitude">34.84725575430</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8472557543,3.72541361026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Unisa</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="ID">4</SimpleData>
+		<SimpleData name="Latitude">3.72155889343</SimpleData>
+		<SimpleData name="Longitude">34.84812850450</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8481285045,3.72155889343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Turkana West University</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="ID">5</SimpleData>
+		<SimpleData name="Latitude">3.71311451396</SimpleData>
+		<SimpleData name="Longitude">34.78688924170</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Area">Kakuma Town</SimpleData>
+		<SimpleData name="Status">Under construction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7868892417,3.71311451396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Termakuachluak</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="ID">6</SimpleData>
+		<SimpleData name="Latitude">3.70001140000</SimpleData>
+		<SimpleData name="Longitude">34.86929390000</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8692939,3.7000114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Teacher Resource Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="ID">7</SimpleData>
+		<SimpleData name="Latitude">3.73837125628</SimpleData>
+		<SimpleData name="Longitude">34.83704624950</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8370462495,3.73837125628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tarach Pre School</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="ID">8</SimpleData>
+		<SimpleData name="Latitude">3.71724195540</SimpleData>
+		<SimpleData name="Longitude">34.85076138250</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma camp</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8507613825,3.7172419554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Surat Nursery School</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="ID">9</SimpleData>
+		<SimpleData name="Latitude">3.75421742242</SimpleData>
+		<SimpleData name="Longitude">34.82846175000</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 2</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.82846175,3.75421742242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Somali Bantu S.S.</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="ID">10</SimpleData>
+		<SimpleData name="Latitude">3.75335935686</SimpleData>
+		<SimpleData name="Longitude">34.81594242840</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 2</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8159424284,3.75335935686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sobat Primary School</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="ID">11</SimpleData>
+		<SimpleData name="Latitude">3.74530839390</SimpleData>
+		<SimpleData name="Longitude">34.83495978570</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8349597857,3.7453083939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shambe Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="ID">12</SimpleData>
+		<SimpleData name="Latitude">3.74726537426</SimpleData>
+		<SimpleData name="Longitude">34.84121675330</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8412167533,3.74726537426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shabelle Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="ID">13</SimpleData>
+		<SimpleData name="Latitude">3.76333093127</SimpleData>
+		<SimpleData name="Longitude">34.81303132520</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 3</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8130313252,3.76333093127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bright Primary School</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="ID">14</SimpleData>
+		<SimpleData name="Latitude">3.75283869408</SimpleData>
+		<SimpleData name="Longitude">34.76121517070</SimpleData>
+		<SimpleData name="Location">Kalobeyei Settlement</SimpleData>
+		<SimpleData name="Area">Village 3</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7612151707,3.75283869408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Peace Pre&amp; Primary School</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="ID">15</SimpleData>
+		<SimpleData name="Latitude">3.75863870355</SimpleData>
+		<SimpleData name="Longitude">34.80810689540</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 4</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8081068954,3.75863870355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Palotaka Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="ID">16</SimpleData>
+		<SimpleData name="Latitude">3.77194778821</SimpleData>
+		<SimpleData name="Longitude">34.82229364730</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 3</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8222936473,3.77194778821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Our Ladys Girls Secondary School</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="ID">17</SimpleData>
+		<SimpleData name="Latitude">3.71075520000</SimpleData>
+		<SimpleData name="Longitude">34.86468110000</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Area">Kakuma Town</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8646811,3.7107552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NRC Vocational Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="ID">18</SimpleData>
+		<SimpleData name="Latitude">3.74422511686</SimpleData>
+		<SimpleData name="Longitude">34.80709627680</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Near Kakuma 4</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8070962768,3.74422511686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Light Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="ID">19</SimpleData>
+		<SimpleData name="Latitude">3.74113097532</SimpleData>
+		<SimpleData name="Longitude">34.80372334500</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 4</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.803723345,3.74113097532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nationokar Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="ID">20</SimpleData>
+		<SimpleData name="Latitude">3.75853345839</SimpleData>
+		<SimpleData name="Longitude">34.80653144130</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Between kakuma and kalobeyei settlement)</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8065314413,3.75853345839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nasibunda Pre School</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="ID">21</SimpleData>
+		<SimpleData name="Latitude">3.76291449718</SimpleData>
+		<SimpleData name="Longitude">34.81849221600</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 3</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.818492216,3.76291449718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Napata Secondary School</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="ID">22</SimpleData>
+		<SimpleData name="Latitude">3.73645856627</SimpleData>
+		<SimpleData name="Longitude">34.83627510910</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8362751091,3.73645856627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Muslim Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="ID">23</SimpleData>
+		<SimpleData name="Latitude">3.70914130000</SimpleData>
+		<SimpleData name="Longitude">34.86439080000</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Status">To be confirmed</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8643908,3.7091413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Multipurpose Centre 3 Beadwork &amp; Jewelery Training</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="ID">24</SimpleData>
+		<SimpleData name="Latitude">3.72029431837</SimpleData>
+		<SimpleData name="Longitude">34.85210415840</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Status">To be confirmed</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8521041584,3.72029431837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MT. SONGOT N.S.</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="ID">25</SimpleData>
+		<SimpleData name="Latitude">3.76837505723</SimpleData>
+		<SimpleData name="Longitude">34.82626577340</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 3(Near reception centre)</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8262657734,3.76837505723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morning Star Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="ID">26</SimpleData>
+		<SimpleData name="Latitude">3.77900897032</SimpleData>
+		<SimpleData name="Longitude">34.73508183400</SimpleData>
+		<SimpleData name="Location">Kalobeyei Settlement</SimpleData>
+		<SimpleData name="Area">Village 1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.735081834,3.77900897032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mogadishu Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">27</SimpleData>
+		<SimpleData name="ID">27</SimpleData>
+		<SimpleData name="Latitude">3.71531196174</SimpleData>
+		<SimpleData name="Longitude">34.85181607130</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8518160713,3.71531196174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LWF Women Development Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="ID">28</SimpleData>
+		<SimpleData name="Latitude">3.74906894954</SimpleData>
+		<SimpleData name="Longitude">34.83866932320</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8386693232,3.74906894954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Luma 2000 Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="ID">29</SimpleData>
+		<SimpleData name="Latitude">3.70698660000</SimpleData>
+		<SimpleData name="Longitude">34.86528130000</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Status">TO be confirmed</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8652813,3.7069866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lokitaung Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="ID">30</SimpleData>
+		<SimpleData name="Latitude">3.75327875998</SimpleData>
+		<SimpleData name="Longitude">34.81115630170</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 3</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8111563017,3.75327875998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Library 1</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="ID">31</SimpleData>
+		<SimpleData name="Latitude">3.73852513015</SimpleData>
+		<SimpleData name="Longitude">34.83773817640</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 3</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8377381764,3.73852513015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lake Turkana Nursery&amp;Primary School</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">32</SimpleData>
+		<SimpleData name="ID">32</SimpleData>
+		<SimpleData name="Latitude">3.75114150182</SimpleData>
+		<SimpleData name="Longitude">34.83777391850</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8377739185,3.75114150182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Komudei Primary School</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="ID">33</SimpleData>
+		<SimpleData name="Latitude">3.71898380000</SimpleData>
+		<SimpleData name="Longitude">34.87086170000</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Area">Kakuma Town</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8708617,3.7189838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kalobeyi Youth Training Centre-AAHI</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">34</SimpleData>
+		<SimpleData name="ID">34</SimpleData>
+		<SimpleData name="Latitude">3.76345859150</SimpleData>
+		<SimpleData name="Longitude">34.72367273930</SimpleData>
+		<SimpleData name="Location">Kalobeyei Settlement</SimpleData>
+		<SimpleData name="Area">Village 1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7236727393,3.7634585915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kalobeyei Settlement Sec</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">35</SimpleData>
+		<SimpleData name="ID">35</SimpleData>
+		<SimpleData name="Latitude">3.76261196968</SimpleData>
+		<SimpleData name="Longitude">34.74458214690</SimpleData>
+		<SimpleData name="Location">Kalobeyei Settlement</SimpleData>
+		<SimpleData name="Area">Village 2</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7445821469,3.76261196968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kalobeyei Settlement Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">36</SimpleData>
+		<SimpleData name="ID">36</SimpleData>
+		<SimpleData name="Latitude">3.76722111610</SimpleData>
+		<SimpleData name="Longitude">34.73257394730</SimpleData>
+		<SimpleData name="Location">Kalobeyei Settlement</SimpleData>
+		<SimpleData name="Area">Village 1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7325739473,3.7672211161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kakuma Refugee Secondary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">37</SimpleData>
+		<SimpleData name="ID">37</SimpleData>
+		<SimpleData name="Latitude">3.73936184995</SimpleData>
+		<SimpleData name="Longitude">34.83685275930</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8368527593,3.73936184995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kakuma Mixed Primary School</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">38</SimpleData>
+		<SimpleData name="ID">38</SimpleData>
+		<SimpleData name="Latitude">3.71421340000</SimpleData>
+		<SimpleData name="Longitude">34.86146990000</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Area">Kakuma town</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8614699,3.7142134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kakuma Girls Primary School</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">39</SimpleData>
+		<SimpleData name="ID">39</SimpleData>
+		<SimpleData name="Latitude">3.71069640000</SimpleData>
+		<SimpleData name="Longitude">34.86334740000</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Area">Kakuma town</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8633474,3.7106964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kadugli Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">40</SimpleData>
+		<SimpleData name="ID">40</SimpleData>
+		<SimpleData name="Latitude">3.74483361086</SimpleData>
+		<SimpleData name="Longitude">34.83653111940</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8365311194,3.74483361086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Joy Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">41</SimpleData>
+		<SimpleData name="ID">41</SimpleData>
+		<SimpleData name="Latitude">3.75699348363</SimpleData>
+		<SimpleData name="Longitude">34.75029601510</SimpleData>
+		<SimpleData name="Location">Kalobeyei Settlement</SimpleData>
+		<SimpleData name="Area">Village 2</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7502960151,3.75699348363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jabel Mara Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">42</SimpleData>
+		<SimpleData name="ID">42</SimpleData>
+		<SimpleData name="Latitude">3.72866735151</SimpleData>
+		<SimpleData name="Longitude">34.84379721300</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.843797213,3.72866735151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Horseed Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">43</SimpleData>
+		<SimpleData name="ID">43</SimpleData>
+		<SimpleData name="Latitude">3.75776503809</SimpleData>
+		<SimpleData name="Longitude">34.82805196540</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 2</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8280519654,3.75776503809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hope Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">44</SimpleData>
+		<SimpleData name="ID">44</SimpleData>
+		<SimpleData name="Latitude">3.74196068540</SimpleData>
+		<SimpleData name="Longitude">34.80482318870</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 4</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8048231887,3.7419606854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Green Light Secondary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">45</SimpleData>
+		<SimpleData name="ID">45</SimpleData>
+		<SimpleData name="Latitude">3.76150962636</SimpleData>
+		<SimpleData name="Longitude">34.82770871570</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 2</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8277087157,3.76150962636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gilo/Nmule Nursery School</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">46</SimpleData>
+		<SimpleData name="ID">46</SimpleData>
+		<SimpleData name="Latitude">3.72939756875</SimpleData>
+		<SimpleData name="Longitude">34.84216731130</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8421673113,3.72939756875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gambella Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">47</SimpleData>
+		<SimpleData name="ID">47</SimpleData>
+		<SimpleData name="Latitude">3.74231932971</SimpleData>
+		<SimpleData name="Longitude">34.81938780990</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 2</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8193878099,3.74231932971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Future Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">48</SimpleData>
+		<SimpleData name="ID">48</SimpleData>
+		<SimpleData name="Latitude">3.74478510505</SimpleData>
+		<SimpleData name="Longitude">34.75460143640</SimpleData>
+		<SimpleData name="Location">Kalobeyei Settlement</SimpleData>
+		<SimpleData name="Area">Village 3</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7546014364,3.74478510505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fuji Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">49</SimpleData>
+		<SimpleData name="ID">49</SimpleData>
+		<SimpleData name="Latitude">3.74787801333</SimpleData>
+		<SimpleData name="Longitude">34.82509703200</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 2</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.825097032,3.74787801333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Friends Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">50</SimpleData>
+		<SimpleData name="ID">50</SimpleData>
+		<SimpleData name="Latitude">3.75187662731</SimpleData>
+		<SimpleData name="Longitude">34.74037507420</SimpleData>
+		<SimpleData name="Location">Kalobeyei Settlement</SimpleData>
+		<SimpleData name="Area">Village 2</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7403750742,3.75187662731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Friends ECD</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">51</SimpleData>
+		<SimpleData name="ID">51</SimpleData>
+		<SimpleData name="Latitude">3.75448420000</SimpleData>
+		<SimpleData name="Longitude">34.74144640000</SimpleData>
+		<SimpleData name="Location">Kalobeyei Settlement</SimpleData>
+		<SimpleData name="Area">Village 2</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7414464,3.7544842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fashoda Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">52</SimpleData>
+		<SimpleData name="ID">52</SimpleData>
+		<SimpleData name="Latitude">3.73056056588</SimpleData>
+		<SimpleData name="Longitude">34.84227100740</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8422710074,3.73056056588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ngundeng Primary School</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">53</SimpleData>
+		<SimpleData name="ID">53</SimpleData>
+		<SimpleData name="Latitude">3.71544619644</SimpleData>
+		<SimpleData name="Longitude">34.85413680290</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8541368029,3.71544619644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Esikiriat ECD School</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">54</SimpleData>
+		<SimpleData name="ID">54</SimpleData>
+		<SimpleData name="Latitude">3.74339204831</SimpleData>
+		<SimpleData name="Longitude">34.73095773900</SimpleData>
+		<SimpleData name="Location">Kalobeyei Settlement</SimpleData>
+		<SimpleData name="Area">Out of the settlement</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.730957739,3.74339204831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eliyes Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">55</SimpleData>
+		<SimpleData name="ID">55</SimpleData>
+		<SimpleData name="Latitude">3.74651346418</SimpleData>
+		<SimpleData name="Longitude">34.80725384700</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 3(towards kakuma 4)</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.807253847,3.74651346418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DRC Safe Space and Training Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">56</SimpleData>
+		<SimpleData name="ID">56</SimpleData>
+		<SimpleData name="Latitude">3.77347028940</SimpleData>
+		<SimpleData name="Longitude">34.73113220980</SimpleData>
+		<SimpleData name="Location">Kalobeyei Settlement</SimpleData>
+		<SimpleData name="Area">Village 1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7311322098,3.7734702894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DRC Kalobeyei Skills &amp; Business Development Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">57</SimpleData>
+		<SimpleData name="ID">57</SimpleData>
+		<SimpleData name="Latitude">3.76981173556</SimpleData>
+		<SimpleData name="Longitude">34.72763361890</SimpleData>
+		<SimpleData name="Location">Kalobeyei Settlement</SimpleData>
+		<SimpleData name="Area">Village 1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7276336189,3.76981173556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Don Bosco Technical Training Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">58</SimpleData>
+		<SimpleData name="ID">58</SimpleData>
+		<SimpleData name="Latitude">3.73755932964</SimpleData>
+		<SimpleData name="Longitude">34.83663500950</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8366350095,3.73755932964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Don Bosco Kakuma technical school</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">59</SimpleData>
+		<SimpleData name="ID">59</SimpleData>
+		<SimpleData name="Latitude">3.71359680000</SimpleData>
+		<SimpleData name="Longitude">34.86007580000</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Status">To be confirmed</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8600758,3.7135968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Don Bosco Iga Training Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">60</SimpleData>
+		<SimpleData name="ID">60</SimpleData>
+		<SimpleData name="Latitude">3.73687091740</SimpleData>
+		<SimpleData name="Longitude">34.82725227110</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 2(Check )</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8272522711,3.7368709174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Don Bosco</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">61</SimpleData>
+		<SimpleData name="ID">61</SimpleData>
+		<SimpleData name="Latitude">3.71326750000</SimpleData>
+		<SimpleData name="Longitude">34.86219170000</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Status">To be confirmed</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8621917,3.7132675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cush Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">62</SimpleData>
+		<SimpleData name="ID">62</SimpleData>
+		<SimpleData name="Latitude">3.74915352648</SimpleData>
+		<SimpleData name="Longitude">34.83780928610</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8378092861,3.74915352648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CFC Wardoff</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">63</SimpleData>
+		<SimpleData name="ID">63</SimpleData>
+		<SimpleData name="Latitude">3.73936589735</SimpleData>
+		<SimpleData name="Longitude">34.81583551870</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 4</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8158355187,3.73936589735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Catholic School</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">64</SimpleData>
+		<SimpleData name="ID">64</SimpleData>
+		<SimpleData name="Latitude">3.71061870000</SimpleData>
+		<SimpleData name="Longitude">34.86220480000</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Area">St. Claria</SimpleData>
+		<SimpleData name="Status">To be confirmed</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8622048,3.7106187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bright star Secondary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">65</SimpleData>
+		<SimpleData name="ID">65</SimpleData>
+		<SimpleData name="Latitude">3.77214437657</SimpleData>
+		<SimpleData name="Longitude">34.73532925790</SimpleData>
+		<SimpleData name="Location">Kalobeyei Settlement</SimpleData>
+		<SimpleData name="Area">Village 1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7353292579,3.77214437657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bhar El Naam Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">66</SimpleData>
+		<SimpleData name="ID">66</SimpleData>
+		<SimpleData name="Latitude">3.72937320106</SimpleData>
+		<SimpleData name="Longitude">34.84356466110</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8435646611,3.72937320106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bartown Secondary School</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">67</SimpleData>
+		<SimpleData name="ID">67</SimpleData>
+		<SimpleData name="Latitude">3.72835216994</SimpleData>
+		<SimpleData name="Longitude">34.84540890830</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8454089083,3.72835216994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aruppe Learning Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">68</SimpleData>
+		<SimpleData name="ID">68</SimpleData>
+		<SimpleData name="Latitude">3.72142328803</SimpleData>
+		<SimpleData name="Longitude">34.84836353190</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8483635319,3.72142328803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Angelina Jollie Boarding Primary School</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">69</SimpleData>
+		<SimpleData name="ID">69</SimpleData>
+		<SimpleData name="Latitude">3.72265205534</SimpleData>
+		<SimpleData name="Longitude">34.83273576160</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Naer Kakuma camp</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8327357616,3.72265205534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Al Nuur Primary</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">70</SimpleData>
+		<SimpleData name="ID">70</SimpleData>
+		<SimpleData name="Latitude">3.76003491282</SimpleData>
+		<SimpleData name="Longitude">34.81074717070</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Area">Kakuma 3</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8107471707,3.76003491282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AEC</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">71</SimpleData>
+		<SimpleData name="ID">71</SimpleData>
+		<SimpleData name="Latitude">3.74726849351</SimpleData>
+		<SimpleData name="Longitude">34.83790821040</SimpleData>
+		<SimpleData name="Location">Kakuma Camp</SimpleData>
+		<SimpleData name="Status">To be confirmed</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8379082104,3.74726849351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AAHI Business Incubator Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">72</SimpleData>
+		<SimpleData name="ID">72</SimpleData>
+		<SimpleData name="Latitude">3.76329450865</SimpleData>
+		<SimpleData name="Longitude">34.72400019580</SimpleData>
+		<SimpleData name="Location">Kalobeyei Settlement</SimpleData>
+		<SimpleData name="Area">Village 1</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7240001958,3.76329450865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bright ECD</name>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Education">
+		<SimpleData name="OBJECTID">73</SimpleData>
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="Latitude">3.75464700000</SimpleData>
+		<SimpleData name="Longitude">34.76832900000</SimpleData>
+		<SimpleData name="Location">Kalobeyei Settlement</SimpleData>
+		<SimpleData name="Area">Village 3</SimpleData>
+		<SimpleData name="Status">Existing</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.768329,3.754647</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
