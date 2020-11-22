@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Kakuma_Health" id="Kakuma_Health">
+	<SimpleField name="OBJECTID" type="float"></SimpleField>
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Names" type="string"></SimpleField>
+	<SimpleField name="Location" type="string"></SimpleField>
+	<SimpleField name="Area" type="string"></SimpleField>
+	<SimpleField name="Status" type="string"></SimpleField>
+</Schema>
+<Folder><name>Kakuma_Health</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="Latitude">3.70792500024</SimpleData>
+		<SimpleData name="Longitude">34.86390666710</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8639066671,3.70792500024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="ID">2</SimpleData>
+		<SimpleData name="Latitude">3.70031325566</SimpleData>
+		<SimpleData name="Longitude">34.90926420480</SimpleData>
+		<SimpleData name="Location">Outskirts</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.9092642048,3.70031325566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="ID">3</SimpleData>
+		<SimpleData name="Latitude">3.76793622258</SimpleData>
+		<SimpleData name="Longitude">34.60011897420</SimpleData>
+		<SimpleData name="Location">Kalobeyei Town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.6001189742,3.76793622258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="ID">4</SimpleData>
+		<SimpleData name="Latitude">3.75345028328</SimpleData>
+		<SimpleData name="Longitude">34.82824595730</SimpleData>
+		<SimpleData name="Names">AICHM Clinic 5</SimpleData>
+		<SimpleData name="Location">Kakuma camp</SimpleData>
+		<SimpleData name="Area">Kakuma 2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8282459573,3.75345028328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="ID">5</SimpleData>
+		<SimpleData name="Latitude">3.71676370000</SimpleData>
+		<SimpleData name="Longitude">34.85689820000</SimpleData>
+		<SimpleData name="Names">Ammusait General Hospital</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Area">Kakuma Town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8568982,3.7167637</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="ID">6</SimpleData>
+		<SimpleData name="Latitude">3.70867580000</SimpleData>
+		<SimpleData name="Longitude">34.86509830000</SimpleData>
+		<SimpleData name="Names">Bliss Medical Centre Kakuma</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Area">Kakuma Town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8650983,3.7086758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="ID">7</SimpleData>
+		<SimpleData name="Latitude">3.75357333274</SimpleData>
+		<SimpleData name="Longitude">34.82816333270</SimpleData>
+		<SimpleData name="Names">Clinic 2</SimpleData>
+		<SimpleData name="Location">Kakuma camp</SimpleData>
+		<SimpleData name="Area">Kakuma 1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8281633327,3.75357333274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="ID">8</SimpleData>
+		<SimpleData name="Latitude">3.75748000030</SimpleData>
+		<SimpleData name="Longitude">34.81176166720</SimpleData>
+		<SimpleData name="Names">Clinic 4</SimpleData>
+		<SimpleData name="Location">Kakuma camp</SimpleData>
+		<SimpleData name="Area">Kakuma 1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8117616672,3.7574800003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="ID">9</SimpleData>
+		<SimpleData name="Latitude">3.73542500036</SimpleData>
+		<SimpleData name="Longitude">34.83982499990</SimpleData>
+		<SimpleData name="Names">Clinic 6</SimpleData>
+		<SimpleData name="Location">Kakuma camp</SimpleData>
+		<SimpleData name="Area">Kakuma 3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8398249999,3.73542500036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="ID">10</SimpleData>
+		<SimpleData name="Latitude">3.73954498690</SimpleData>
+		<SimpleData name="Longitude">34.81346439310</SimpleData>
+		<SimpleData name="Names">Clinic 7 IRC Main Hospital</SimpleData>
+		<SimpleData name="Location">Kakuma camp</SimpleData>
+		<SimpleData name="Area">Kakuma 4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8134643931,3.7395449869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="ID">11</SimpleData>
+		<SimpleData name="Latitude">3.75510538953</SimpleData>
+		<SimpleData name="Longitude">34.82802478880</SimpleData>
+		<SimpleData name="Names">JRS VCT Centre</SimpleData>
+		<SimpleData name="Location">Kakuma camp</SimpleData>
+		<SimpleData name="Area">Kakuma 2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8280247888,3.75510538953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="ID">12</SimpleData>
+		<SimpleData name="Latitude">3.73644223929</SimpleData>
+		<SimpleData name="Longitude">34.83917272940</SimpleData>
+		<SimpleData name="Names">IRC Main Hospital</SimpleData>
+		<SimpleData name="Location">Kakuma camp</SimpleData>
+		<SimpleData name="Area">Kakuma 1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8391727294,3.73644223929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="ID">13</SimpleData>
+		<SimpleData name="Latitude">3.71060770000</SimpleData>
+		<SimpleData name="Longitude">34.86121100000</SimpleData>
+		<SimpleData name="Names">Kakuma Medical Clinic</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Area">Kakuma Town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.861211,3.7106077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="ID">14</SimpleData>
+		<SimpleData name="Latitude">3.71178610000</SimpleData>
+		<SimpleData name="Longitude">34.86141950000</SimpleData>
+		<SimpleData name="Names">Kakuma Mission Hospital</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Area">Kakuma Town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8614195,3.7117861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="ID">15</SimpleData>
+		<SimpleData name="Latitude">3.76771200000</SimpleData>
+		<SimpleData name="Longitude">34.62203710000</SimpleData>
+		<SimpleData name="Names">Kalobeyei Dispensary</SimpleData>
+		<SimpleData name="Location">Kalobeyei Town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.6220371,3.767712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="ID">16</SimpleData>
+		<SimpleData name="Latitude">3.77427036179</SimpleData>
+		<SimpleData name="Longitude">34.73067197460</SimpleData>
+		<SimpleData name="Names">Kalobeyei Village 1 Health Centre (KRCS)</SimpleData>
+		<SimpleData name="Location">Kalobeyei Settlement</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7306719746,3.77427036179</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="ID">17</SimpleData>
+		<SimpleData name="Latitude">3.75481342590</SimpleData>
+		<SimpleData name="Longitude">34.74983191930</SimpleData>
+		<SimpleData name="Names">Kalobeyei Village 2 Health Centre (AiCHM)</SimpleData>
+		<SimpleData name="Location">Kalobeyei Settlement</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7498319193,3.7548134259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="ID">18</SimpleData>
+		<SimpleData name="Latitude">3.85826999966</SimpleData>
+		<SimpleData name="Longitude">34.82097833320</SimpleData>
+		<SimpleData name="Names">Kenya Red cross Hospital</SimpleData>
+		<SimpleData name="Location">Outskirts</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8209783332,3.85826999966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="ID">19</SimpleData>
+		<SimpleData name="Latitude">3.71898380000</SimpleData>
+		<SimpleData name="Longitude">34.87086170000</SimpleData>
+		<SimpleData name="Names">Komudei Dispensary</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8708617,3.7189838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="ID">20</SimpleData>
+		<SimpleData name="Latitude">3.71156333258</SimpleData>
+		<SimpleData name="Longitude">34.79022166670</SimpleData>
+		<SimpleData name="Names">Lokore health facility</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Area">Kakuma town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7902216667,3.71156333258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="ID">21</SimpleData>
+		<SimpleData name="Latitude">3.88503333272</SimpleData>
+		<SimpleData name="Longitude">34.56618666670</SimpleData>
+		<SimpleData name="Names">Lopusky dispensary</SimpleData>
+		<SimpleData name="Location">Outskirts</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.5661866667,3.88503333272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="ID">22</SimpleData>
+		<SimpleData name="Latitude">3.70792500024</SimpleData>
+		<SimpleData name="Longitude">34.86390666710</SimpleData>
+		<SimpleData name="Names">Nakoyo Dispensary</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Area">Kakuma Town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8639066671,3.70792500024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="ID">23</SimpleData>
+		<SimpleData name="Latitude">3.70808500042</SimpleData>
+		<SimpleData name="Longitude">34.86365166700</SimpleData>
+		<SimpleData name="Names">Natiira dispensary</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Area">Past kalobeyei town to lokichogio</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.863651667,3.70808500042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="ID">24</SimpleData>
+		<SimpleData name="Latitude">3.72976078302</SimpleData>
+		<SimpleData name="Longitude">34.84074279560</SimpleData>
+		<SimpleData name="Names">Orthopediac Centre 1</SimpleData>
+		<SimpleData name="Location">Kakuma camp</SimpleData>
+		<SimpleData name="Area">Kakuma 1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8407427956,3.72976078302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="ID">25</SimpleData>
+		<SimpleData name="Latitude">3.70523666674</SimpleData>
+		<SimpleData name="Longitude">34.88431333290</SimpleData>
+		<SimpleData name="Names">Premier Medical clinic</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Area">Kakumatown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8843133329,3.70523666674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="ID">26</SimpleData>
+		<SimpleData name="Latitude">3.71064160000</SimpleData>
+		<SimpleData name="Longitude">34.85544190000</SimpleData>
+		<SimpleData name="Names">Shepherds Hospital - Kakuma Medical Centre</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Area">Kakuma Town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8554419,3.7106416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">27</SimpleData>
+		<SimpleData name="ID">27</SimpleData>
+		<SimpleData name="Latitude">3.71249170000</SimpleData>
+		<SimpleData name="Longitude">34.85846990000</SimpleData>
+		<SimpleData name="Names">The Center For The Victims Of Torture - Kakuma</SimpleData>
+		<SimpleData name="Location">Kakuma camp</SimpleData>
+		<SimpleData name="Area">known centers are in Kalobeyei village 1&amp;3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8584699,3.7124917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="ID">28</SimpleData>
+		<SimpleData name="Latitude">3.70929166668</SimpleData>
+		<SimpleData name="Longitude">34.86238166690</SimpleData>
+		<SimpleData name="Names">The Guardian Medical Clinic</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Area">Kakuma town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8623816669,3.70929166668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="ID">29</SimpleData>
+		<SimpleData name="Latitude">3.75481342604</SimpleData>
+		<SimpleData name="Longitude">34.74983191950</SimpleData>
+		<SimpleData name="Names">Turkana West Sub-County Outpatient Hospital</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Area">Kakuma town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7498319195,3.75481342604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="ID">30</SimpleData>
+		<SimpleData name="Latitude">3.76771200000</SimpleData>
+		<SimpleData name="Longitude">34.62203710000</SimpleData>
+		<SimpleData name="Names">villages one</SimpleData>
+		<SimpleData name="Location">Kalobeyei Town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.6220371,3.767712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kakuma_Health">
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="ID">31</SimpleData>
+		<SimpleData name="Latitude">3.71465775135</SimpleData>
+		<SimpleData name="Longitude">34.86477440040</SimpleData>
+		<SimpleData name="Names">Win Master pharmaceutical suppliers</SimpleData>
+		<SimpleData name="Location">Kakuma Town</SimpleData>
+		<SimpleData name="Area">Kakumatown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8647744004,3.71465775135</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
