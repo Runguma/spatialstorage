@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Kalobeyei_Boundary" id="Kalobeyei_Boundary">
+	<SimpleField name="Id" type="float"></SimpleField>
+	<SimpleField name="Shape_Leng" type="float"></SimpleField>
+	<SimpleField name="Shape_Area" type="float"></SimpleField>
+</Schema>
+<Folder><name>Kalobeyei_Boundary</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Kalobeyei_Boundary">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Shape_Leng">17182.96613590000</SimpleData>
+		<SimpleData name="Shape_Area">14946011.71370000206</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>34.7331391599181,3.78058688123712,0 34.7721245057935,3.75785123493169,0 34.7571406705406,3.7319008273757,0 34.7486174820091,3.73686697922476,0 34.7494067239646,3.73823394265068,0 34.7409864474268,3.74314003368096,0 34.7416710046733,3.74432568951993,0 34.7384454723973,3.74620502737343,0 34.739674964965,3.7483345091098,0 34.7240045444064,3.75746459823896,0 34.7227919381054,3.75536456009757,0 34.7196893561629,3.75717021206817,0 34.7331391599181,3.78058688123712,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
