@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Markets" id="Markets">
+	<SimpleField name="OBJECTID" type="float"></SimpleField>
+	<SimpleField name="Id" type="float"></SimpleField>
+	<SimpleField name="Type" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Comm_Type" type="string"></SimpleField>
+	<SimpleField name="Status" type="string"></SimpleField>
+	<SimpleField name="Code" type="string"></SimpleField>
+	<SimpleField name="Current_st" type="string"></SimpleField>
+	<SimpleField name="Stat_1" type="int"></SimpleField>
+	<SimpleField name="Label" type="string"></SimpleField>
+	<SimpleField name="ChoicLabl" type="float"></SimpleField>
+	<SimpleField name="ORIG_FID" type="float"></SimpleField>
+</Schema>
+<Folder><name>Markets</name>
+  <Placemark>
+	<name>Kakuma Market</name>
+	<ExtendedData><SchemaData schemaUrl="#Markets">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Latitude">0.00000000000</SimpleData>
+		<SimpleData name="Longitude">0.00000000000</SimpleData>
+		<SimpleData name="Stat_1">0</SimpleData>
+		<SimpleData name="ChoicLabl">0</SimpleData>
+		<SimpleData name="ORIG_FID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8617475002149,3.70817300032947,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kalobeyei Market</name>
+	<ExtendedData><SchemaData schemaUrl="#Markets">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Latitude">0.00000000000</SimpleData>
+		<SimpleData name="Longitude">0.00000000000</SimpleData>
+		<SimpleData name="Stat_1">0</SimpleData>
+		<SimpleData name="ChoicLabl">0</SimpleData>
+		<SimpleData name="ORIG_FID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.6205424816988,3.76715859149022,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kakuma 3 Market</name>
+	<ExtendedData><SchemaData schemaUrl="#Markets">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Type">Markets</SimpleData>
+		<SimpleData name="Latitude">3.76777740000</SimpleData>
+		<SimpleData name="Longitude">34.82473890000</SimpleData>
+		<SimpleData name="Stat_1">0</SimpleData>
+		<SimpleData name="ChoicLabl">0</SimpleData>
+		<SimpleData name="ORIG_FID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8247389001396,3.76777740032769,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kismayo Market</name>
+	<ExtendedData><SchemaData schemaUrl="#Markets">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Type">Markets</SimpleData>
+		<SimpleData name="Latitude">3.76363560000</SimpleData>
+		<SimpleData name="Longitude">34.82069960000</SimpleData>
+		<SimpleData name="Stat_1">0</SimpleData>
+		<SimpleData name="ChoicLabl">0</SimpleData>
+		<SimpleData name="ORIG_FID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.820699599869,3.76363560000437,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Liz Ahua Market</name>
+	<ExtendedData><SchemaData schemaUrl="#Markets">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Type">Markets</SimpleData>
+		<SimpleData name="Latitude">3.76101410000</SimpleData>
+		<SimpleData name="Longitude">34.81794300000</SimpleData>
+		<SimpleData name="Stat_1">0</SimpleData>
+		<SimpleData name="ChoicLabl">0</SimpleData>
+		<SimpleData name="ORIG_FID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8179429999451,3.76101409992583,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lokitaung Market</name>
+	<ExtendedData><SchemaData schemaUrl="#Markets">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Type">Markets</SimpleData>
+		<SimpleData name="Latitude">3.75108418617</SimpleData>
+		<SimpleData name="Longitude">34.81059631410</SimpleData>
+		<SimpleData name="Stat_1">0</SimpleData>
+		<SimpleData name="ChoicLabl">0</SimpleData>
+		<SimpleData name="ORIG_FID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8105963140053,3.751084186581,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kakuma 4 Market</name>
+	<ExtendedData><SchemaData schemaUrl="#Markets">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Type">Markets</SimpleData>
+		<SimpleData name="Latitude">3.74279480000</SimpleData>
+		<SimpleData name="Longitude">34.80619000000</SimpleData>
+		<SimpleData name="Stat_1">0</SimpleData>
+		<SimpleData name="ChoicLabl">0</SimpleData>
+		<SimpleData name="ORIG_FID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8061900001618,3.74279480012601,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hong Kong Market</name>
+	<ExtendedData><SchemaData schemaUrl="#Markets">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Type">Markets</SimpleData>
+		<SimpleData name="Latitude">3.74793932681</SimpleData>
+		<SimpleData name="Longitude">34.83963823490</SimpleData>
+		<SimpleData name="Stat_1">0</SimpleData>
+		<SimpleData name="ChoicLabl">0</SimpleData>
+		<SimpleData name="ORIG_FID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.83963823467,3.74793932683764,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Somali Market</name>
+	<ExtendedData><SchemaData schemaUrl="#Markets">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Type">Markets</SimpleData>
+		<SimpleData name="Latitude">3.71844040000</SimpleData>
+		<SimpleData name="Longitude">34.84944420000</SimpleData>
+		<SimpleData name="Stat_1">0</SimpleData>
+		<SimpleData name="ChoicLabl">0</SimpleData>
+		<SimpleData name="ORIG_FID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8494441996916,3.71844039979575,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ethiopian Market</name>
+	<ExtendedData><SchemaData schemaUrl="#Markets">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Type">Markets</SimpleData>
+		<SimpleData name="Latitude">3.72151300000</SimpleData>
+		<SimpleData name="Longitude">34.84936270000</SimpleData>
+		<SimpleData name="Stat_1">0</SimpleData>
+		<SimpleData name="ChoicLabl">0</SimpleData>
+		<SimpleData name="ORIG_FID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8493626998385,3.72151299977566,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fuji Market</name>
+	<ExtendedData><SchemaData schemaUrl="#Markets">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Type">Markets</SimpleData>
+		<SimpleData name="Latitude">3.75120229342</SimpleData>
+		<SimpleData name="Longitude">34.82558309760</SimpleData>
+		<SimpleData name="Stat_1">0</SimpleData>
+		<SimpleData name="ChoicLabl">0</SimpleData>
+		<SimpleData name="ORIG_FID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8255830973529,3.7512022929739,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gambella Market</name>
+	<ExtendedData><SchemaData schemaUrl="#Markets">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Type">Market</SimpleData>
+		<SimpleData name="Latitude">0.00000000000</SimpleData>
+		<SimpleData name="Longitude">0.00000000000</SimpleData>
+		<SimpleData name="Stat_1">0</SimpleData>
+		<SimpleData name="ChoicLabl">0</SimpleData>
+		<SimpleData name="ORIG_FID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8204701793928,3.74129335057029,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bora Market</name>
+	<ExtendedData><SchemaData schemaUrl="#Markets">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Latitude">0.00000000000</SimpleData>
+		<SimpleData name="Longitude">0.00000000000</SimpleData>
+		<SimpleData name="Comm_Type">Business/Commercial</SimpleData>
+		<SimpleData name="Status">Existing Business/Commercial</SimpleData>
+		<SimpleData name="Code">EBA</SimpleData>
+		<SimpleData name="Current_st">Developed</SimpleData>
+		<SimpleData name="Stat_1">5</SimpleData>
+		<SimpleData name="Label">M1-V3</SimpleData>
+		<SimpleData name="ChoicLabl">1</SimpleData>
+		<SimpleData name="ORIG_FID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7563408421037,3.7438014149766,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tumaini Market</name>
+	<ExtendedData><SchemaData schemaUrl="#Markets">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Latitude">0.00000000000</SimpleData>
+		<SimpleData name="Longitude">0.00000000000</SimpleData>
+		<SimpleData name="Comm_Type">Business/Commercial</SimpleData>
+		<SimpleData name="Status">Existing Business/Commercial</SimpleData>
+		<SimpleData name="Code">EBA</SimpleData>
+		<SimpleData name="Current_st">Developed</SimpleData>
+		<SimpleData name="Stat_1">5</SimpleData>
+		<SimpleData name="Label">M2-V3</SimpleData>
+		<SimpleData name="ChoicLabl">1</SimpleData>
+		<SimpleData name="ORIG_FID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7625422601259,3.74886457034236,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gaba Mana Dung Market</name>
+	<ExtendedData><SchemaData schemaUrl="#Markets">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Latitude">0.00000000000</SimpleData>
+		<SimpleData name="Longitude">0.00000000000</SimpleData>
+		<SimpleData name="Comm_Type">Business/Commercial</SimpleData>
+		<SimpleData name="Status">Existing Business/Commercial</SimpleData>
+		<SimpleData name="Code">EBA</SimpleData>
+		<SimpleData name="Current_st">Developed</SimpleData>
+		<SimpleData name="Stat_1">5</SimpleData>
+		<SimpleData name="Label">M2-V2</SimpleData>
+		<SimpleData name="ChoicLabl">1</SimpleData>
+		<SimpleData name="ORIG_FID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7558741367736,3.7633777017981,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wathath Market</name>
+	<ExtendedData><SchemaData schemaUrl="#Markets">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Latitude">0.00000000000</SimpleData>
+		<SimpleData name="Longitude">0.00000000000</SimpleData>
+		<SimpleData name="Comm_Type">Business/Commercial</SimpleData>
+		<SimpleData name="Status">Existing Business/Commercial</SimpleData>
+		<SimpleData name="Code">EBA</SimpleData>
+		<SimpleData name="Current_st">Developed</SimpleData>
+		<SimpleData name="Stat_1">5</SimpleData>
+		<SimpleData name="Label">M1-V2</SimpleData>
+		<SimpleData name="ChoicLabl">1</SimpleData>
+		<SimpleData name="ORIG_FID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7400721036745,3.75112863630057,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Natukobenyo Market</name>
+	<ExtendedData><SchemaData schemaUrl="#Markets">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Latitude">0.00000000000</SimpleData>
+		<SimpleData name="Longitude">0.00000000000</SimpleData>
+		<SimpleData name="Comm_Type">Main Market</SimpleData>
+		<SimpleData name="Status">Existing Main Market</SimpleData>
+		<SimpleData name="Code">EMM</SimpleData>
+		<SimpleData name="Current_st">Under-Development</SimpleData>
+		<SimpleData name="Stat_1">3</SimpleData>
+		<SimpleData name="Label">MM1-V1</SimpleData>
+		<SimpleData name="ChoicLabl">1</SimpleData>
+		<SimpleData name="ORIG_FID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7273225864575,3.76849775993463,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Markets">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Latitude">0.00000000000</SimpleData>
+		<SimpleData name="Longitude">0.00000000000</SimpleData>
+		<SimpleData name="Stat_1">0</SimpleData>
+		<SimpleData name="ChoicLabl">0</SimpleData>
+		<SimpleData name="ORIG_FID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7570668710962,3.74993223422123,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Markets">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Latitude">0.00000000000</SimpleData>
+		<SimpleData name="Longitude">0.00000000000</SimpleData>
+		<SimpleData name="Stat_1">0</SimpleData>
+		<SimpleData name="ChoicLabl">0</SimpleData>
+		<SimpleData name="ORIG_FID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7290232882458,3.76908853535933,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
