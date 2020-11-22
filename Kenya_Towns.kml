@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Kenya_Towns" id="Kenya_Towns">
+	<SimpleField name="TOWN" type="string"></SimpleField>
+	<SimpleField name="POP_2019" type="float"></SimpleField>
+	<SimpleField name="Proj_2030" type="float"></SimpleField>
+	<SimpleField name="Radius" type="float"></SimpleField>
+</Schema>
+<Folder><name>Kenya_Towns</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Busia</SimpleData>
+		<SimpleData name="POP_2019">71886</SimpleData>
+		<SimpleData name="Proj_2030">89670</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.1055977406877,0.465617548171846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Migori</SimpleData>
+		<SimpleData name="POP_2019">71668</SimpleData>
+		<SimpleData name="Proj_2030">89398</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.4637448905927,-1.06183667876477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Bungoma</SimpleData>
+		<SimpleData name="POP_2019">68031</SimpleData>
+		<SimpleData name="Proj_2030">84862</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.5541734570839,0.567741650718827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Kisii</SimpleData>
+		<SimpleData name="POP_2019">112417</SimpleData>
+		<SimpleData name="Proj_2030">140229</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7837064840629,-0.6676599235656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Kisumu</SimpleData>
+		<SimpleData name="POP_2019">397957</SimpleData>
+		<SimpleData name="Proj_2030">496412</SimpleData>
+		<SimpleData name="Radius">11.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7706521224675,-0.083852204378755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Kimilili</SimpleData>
+		<SimpleData name="POP_2019">56050</SimpleData>
+		<SimpleData name="Proj_2030">69916</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7164522840213,0.783003396589559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Kakamega</SimpleData>
+		<SimpleData name="POP_2019">107227</SimpleData>
+		<SimpleData name="Proj_2030">133755</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7510898760457,0.288458983818446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Kitale</SimpleData>
+		<SimpleData name="POP_2019">162174</SimpleData>
+		<SimpleData name="Proj_2030">202296</SimpleData>
+		<SimpleData name="Radius">7.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.0028398913675,1.01962712163141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Kericho</SimpleData>
+		<SimpleData name="POP_2019">53804</SimpleData>
+		<SimpleData name="Proj_2030">67115</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.2905739229356,-0.356271530276332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Eldoret</SimpleData>
+		<SimpleData name="POP_2019">475716</SimpleData>
+		<SimpleData name="Proj_2030">593409</SimpleData>
+		<SimpleData name="Radius">11.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.2783260288236,0.531777963161762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Nakuru</SimpleData>
+		<SimpleData name="POP_2019">570674</SimpleData>
+		<SimpleData name="Proj_2030">711860</SimpleData>
+		<SimpleData name="Radius">14.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.0772184838587,-0.293090638692982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Lodwar</SimpleData>
+		<SimpleData name="POP_2019">82970</SimpleData>
+		<SimpleData name="Proj_2030">103497</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.617778203191,3.13229640044995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Gilgil</SimpleData>
+		<SimpleData name="POP_2019">60711</SimpleData>
+		<SimpleData name="Proj_2030">75731</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.3115068751769,-0.504464507840133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Naivasha</SimpleData>
+		<SimpleData name="POP_2019">198444</SimpleData>
+		<SimpleData name="Proj_2030">247539</SimpleData>
+		<SimpleData name="Radius">7.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.4443155410847,-0.726725851818632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Limuru</SimpleData>
+		<SimpleData name="POP_2019">81316</SimpleData>
+		<SimpleData name="Proj_2030">101433</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.6260078402327,-1.10519627694329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Kikuyu</SimpleData>
+		<SimpleData name="POP_2019">323881</SimpleData>
+		<SimpleData name="Proj_2030">404010</SimpleData>
+		<SimpleData name="Radius">11.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.6546922001232,-1.23591969726044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Ngong</SimpleData>
+		<SimpleData name="POP_2019">102323</SimpleData>
+		<SimpleData name="Proj_2030">127638</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.6480768636898,-1.35460775625321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Kiserian</SimpleData>
+		<SimpleData name="POP_2019">76903</SimpleData>
+		<SimpleData name="Proj_2030">95929</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.681398890768,-1.42171568009768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Kiambu</SimpleData>
+		<SimpleData name="POP_2019">147870</SimpleData>
+		<SimpleData name="Proj_2030">184453</SimpleData>
+		<SimpleData name="Radius">7.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.8291848643836,-1.15951277933956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Githunguri</SimpleData>
+		<SimpleData name="POP_2019">63319</SimpleData>
+		<SimpleData name="Proj_2030">78984</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.7804457163907,-1.04966384296101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Nairobi</SimpleData>
+		<SimpleData name="POP_2019">4397073</SimpleData>
+		<SimpleData name="Proj_2030">5484921</SimpleData>
+		<SimpleData name="Radius">18.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.881024665031,-1.29229326512336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Karuri</SimpleData>
+		<SimpleData name="POP_2019">194342</SimpleData>
+		<SimpleData name="Proj_2030">242422</SimpleData>
+		<SimpleData name="Radius">7.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.7411190183966,-1.15992077902977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Ongata Rongai</SimpleData>
+		<SimpleData name="POP_2019">172569</SimpleData>
+		<SimpleData name="Proj_2030">215263</SimpleData>
+		<SimpleData name="Radius">7.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.7531225196559,-1.38647022202248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Nyeri</SimpleData>
+		<SimpleData name="POP_2019">80081</SimpleData>
+		<SimpleData name="Proj_2030">99893</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.9470848218376,-0.422655155049185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Juja</SimpleData>
+		<SimpleData name="POP_2019">156041</SimpleData>
+		<SimpleData name="Proj_2030">194645</SimpleData>
+		<SimpleData name="Radius">7.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.0094401462239,-1.10269660084561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Ruiru</SimpleData>
+		<SimpleData name="POP_2019">490120</SimpleData>
+		<SimpleData name="Proj_2030">611377</SimpleData>
+		<SimpleData name="Radius">11.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.9608590710391,-1.14184515483746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Nanyuki</SimpleData>
+		<SimpleData name="POP_2019">72813</SimpleData>
+		<SimpleData name="Proj_2030">90827</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.0683126520174,0.016586288615784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Thika</SimpleData>
+		<SimpleData name="POP_2019">251407</SimpleData>
+		<SimpleData name="Proj_2030">313605</SimpleData>
+		<SimpleData name="Radius">11.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.0606957596433,-1.03658638005358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Embu</SimpleData>
+		<SimpleData name="POP_2019">64979</SimpleData>
+		<SimpleData name="Proj_2030">81054</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.4470587448331,-0.526600043520926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Isiolo</SimpleData>
+		<SimpleData name="POP_2019">78650</SimpleData>
+		<SimpleData name="Proj_2030">98108</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.5720695407218,0.35463121476712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Meru</SimpleData>
+		<SimpleData name="POP_2019">80191</SimpleData>
+		<SimpleData name="Proj_2030">100030</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.6453057552568,0.051575676418582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Voi</SimpleData>
+		<SimpleData name="POP_2019">53353</SimpleData>
+		<SimpleData name="Proj_2030">66552</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.5722680696763,-3.36613940587218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Mombasa</SimpleData>
+		<SimpleData name="POP_2019">1208333</SimpleData>
+		<SimpleData name="Proj_2030">1507278</SimpleData>
+		<SimpleData name="Radius">18.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.6707308351808,-4.05994095290464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Garissa</SimpleData>
+		<SimpleData name="POP_2019">163399</SimpleData>
+		<SimpleData name="Proj_2030">203824</SimpleData>
+		<SimpleData name="Radius">7.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.6299402989551,-0.44630733265822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Kilifi</SimpleData>
+		<SimpleData name="POP_2019">74270</SimpleData>
+		<SimpleData name="Proj_2030">92644</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.8649332499951,-3.59789118135921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Malindi</SimpleData>
+		<SimpleData name="POP_2019">119859</SimpleData>
+		<SimpleData name="Proj_2030">149512</SimpleData>
+		<SimpleData name="Radius">7.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>40.1156056719364,-3.18583947118158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Wajir</SimpleData>
+		<SimpleData name="POP_2019">90116</SimpleData>
+		<SimpleData name="Proj_2030">112410</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>40.0581388817564,1.74334118216713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Elwak</SimpleData>
+		<SimpleData name="POP_2019">60732</SimpleData>
+		<SimpleData name="Proj_2030">75757</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>40.9291593631344,2.80921335751087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Mandera</SimpleData>
+		<SimpleData name="POP_2019">114718</SimpleData>
+		<SimpleData name="Proj_2030">143099</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>41.8671692443668,3.92563245473721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Machakos</SimpleData>
+		<SimpleData name="POP_2019">63767</SimpleData>
+		<SimpleData name="Proj_2030">79543</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.2520359391288,-1.51743112587912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Kitengela</SimpleData>
+		<SimpleData name="POP_2019">154436</SimpleData>
+		<SimpleData name="Proj_2030">192643</SimpleData>
+		<SimpleData name="Radius">7.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.9566273136506,-1.48426933495756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Ukunda</SimpleData>
+		<SimpleData name="POP_2019">77686</SimpleData>
+		<SimpleData name="Proj_2030">96905</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.5672224685287,-4.28953784962234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Wanguru</SimpleData>
+		<SimpleData name="POP_2019">51722</SimpleData>
+		<SimpleData name="Proj_2030">64518</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.2777279632216,-0.758542142487042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Mtwapa</SimpleData>
+		<SimpleData name="POP_2019">90677</SimpleData>
+		<SimpleData name="Proj_2030">113110</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.7488809092513,-3.94633803702997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Mlolongo</SimpleData>
+		<SimpleData name="POP_2019">136351</SimpleData>
+		<SimpleData name="Proj_2030">170084</SimpleData>
+		<SimpleData name="Radius">7.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.9297674396636,-1.38136074165255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Narok</SimpleData>
+		<SimpleData name="POP_2019">65430</SimpleData>
+		<SimpleData name="Proj_2030">81617</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.8762490427938,-1.0928203961286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Athi River</SimpleData>
+		<SimpleData name="POP_2019">81302</SimpleData>
+		<SimpleData name="Proj_2030">101416</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.9803034290065,-1.45762177075049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Mumias</SimpleData>
+		<SimpleData name="POP_2019">41942</SimpleData>
+		<SimpleData name="Proj_2030">52318</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.4970770373354,0.329501076362809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Kapsabet</SimpleData>
+		<SimpleData name="POP_2019">41997</SimpleData>
+		<SimpleData name="Proj_2030">52387</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.1012003262174,0.200337234121676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Njoro</SimpleData>
+		<SimpleData name="POP_2019">42173</SimpleData>
+		<SimpleData name="Proj_2030">52606</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.9454152000421,-0.336743371589675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Webuye</SimpleData>
+		<SimpleData name="POP_2019">42642</SimpleData>
+		<SimpleData name="Proj_2030">53191</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7601715952639,0.605265120919964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Murang'a</SimpleData>
+		<SimpleData name="POP_2019">43314</SimpleData>
+		<SimpleData name="Proj_2030">54030</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.1567552387495,-0.725924743158412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Masalani</SimpleData>
+		<SimpleData name="POP_2019">43642</SimpleData>
+		<SimpleData name="Proj_2030">54439</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>40.1724976832912,-1.69854343989866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Kenol</SimpleData>
+		<SimpleData name="POP_2019">44086</SimpleData>
+		<SimpleData name="Proj_2030">54993</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.1258038079649,-0.941934600368935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Homabay</SimpleData>
+		<SimpleData name="POP_2019">44949</SimpleData>
+		<SimpleData name="Proj_2030">56069</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.4551995249063,-0.553522865175677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Moyale</SimpleData>
+		<SimpleData name="POP_2019">47850</SimpleData>
+		<SimpleData name="Proj_2030">59688</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.0540209022608,3.51632029713583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Molo</SimpleData>
+		<SimpleData name="POP_2019">48356</SimpleData>
+		<SimpleData name="Proj_2030">60319</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.7309862877562,-0.249463645970145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Kenya_Towns">
+		<SimpleData name="TOWN">Habasweni</SimpleData>
+		<SimpleData name="POP_2019">49599</SimpleData>
+		<SimpleData name="Proj_2030">61869</SimpleData>
+		<SimpleData name="Radius">4.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.4910875626148,1.01130006427428</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
