@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Turkana_Medium_Airfields" id="Turkana_Medium_Airfields">
+	<SimpleField name="OBJECTID_1" type="float"></SimpleField>
+	<SimpleField name="OBJECTID" type="float"></SimpleField>
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="ident" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="latitude_d" type="float"></SimpleField>
+	<SimpleField name="longitude_" type="float"></SimpleField>
+	<SimpleField name="elevation_" type="float"></SimpleField>
+	<SimpleField name="continent" type="string"></SimpleField>
+	<SimpleField name="iso_countr" type="string"></SimpleField>
+	<SimpleField name="iso_region" type="string"></SimpleField>
+	<SimpleField name="municipali" type="string"></SimpleField>
+	<SimpleField name="scheduled_" type="float"></SimpleField>
+	<SimpleField name="gps_code" type="string"></SimpleField>
+	<SimpleField name="iata_code" type="string"></SimpleField>
+	<SimpleField name="Object_ID" type="float"></SimpleField>
+	<SimpleField name="score" type="float"></SimpleField>
+	<SimpleField name="County" type="string"></SimpleField>
+	<SimpleField name="Gnd_Surfac" type="string"></SimpleField>
+	<SimpleField name="RWY_O" type="string"></SimpleField>
+	<SimpleField name="Grnd_Servi" type="string"></SimpleField>
+	<SimpleField name="Supervisor" type="string"></SimpleField>
+	<SimpleField name="Hours_OP" type="string"></SimpleField>
+	<SimpleField name="Lat_Y" type="float"></SimpleField>
+	<SimpleField name="Long_X" type="float"></SimpleField>
+</Schema>
+<Folder><name>Turkana_Medium_Airfields</name>
+  <Placemark>
+	<name>Lokichoggio Airport</name>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Medium_Airfields">
+		<SimpleData name="OBJECTID_1">1</SimpleData>
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="id">3210</SimpleData>
+		<SimpleData name="ident">HKLK</SimpleData>
+		<SimpleData name="type">medium_airport</SimpleData>
+		<SimpleData name="latitude_d">4.20412015900</SimpleData>
+		<SimpleData name="longitude_">34.34820175000</SimpleData>
+		<SimpleData name="elevation_">2074</SimpleData>
+		<SimpleData name="continent">AF</SimpleData>
+		<SimpleData name="iso_countr">KE</SimpleData>
+		<SimpleData name="iso_region">KE-700</SimpleData>
+		<SimpleData name="municipali">Lokichoggio</SimpleData>
+		<SimpleData name="scheduled_">1</SimpleData>
+		<SimpleData name="gps_code">HKLK</SimpleData>
+		<SimpleData name="iata_code">LKG</SimpleData>
+		<SimpleData name="Object_ID">5</SimpleData>
+		<SimpleData name="score">450</SimpleData>
+		<SimpleData name="County">TURKANA</SimpleData>
+		<SimpleData name="Lat_Y">4.20082583827</SimpleData>
+		<SimpleData name="Long_X">34.34783483070</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.3478348306552,4.20082583827273,2074.000048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lodwar Airport</name>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Medium_Airfields">
+		<SimpleData name="OBJECTID_1">2</SimpleData>
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="id">3211</SimpleData>
+		<SimpleData name="ident">HKLO</SimpleData>
+		<SimpleData name="type">medium_airport</SimpleData>
+		<SimpleData name="latitude_d">3.12196993800</SimpleData>
+		<SimpleData name="longitude_">35.60869980000</SimpleData>
+		<SimpleData name="elevation_">1715</SimpleData>
+		<SimpleData name="continent">AF</SimpleData>
+		<SimpleData name="iso_countr">KE</SimpleData>
+		<SimpleData name="iso_region">KE-700</SimpleData>
+		<SimpleData name="municipali">Lodwar</SimpleData>
+		<SimpleData name="scheduled_">0</SimpleData>
+		<SimpleData name="gps_code">HKLO</SimpleData>
+		<SimpleData name="iata_code">LOK</SimpleData>
+		<SimpleData name="Object_ID">15</SimpleData>
+		<SimpleData name="score">250</SimpleData>
+		<SimpleData name="County">TURKANA</SimpleData>
+		<SimpleData name="Gnd_Surfac">PCN8/F/C/Y/U Bitumen</SimpleData>
+		<SimpleData name="RWY_O">09/27; 1000 x 15, -0.25</SimpleData>
+		<SimpleData name="Grnd_Servi">NIL</SimpleData>
+		<SimpleData name="Supervisor">Kenya Govt. Rep.
+Officer - DC Turkana
+Tel. 21620
+LODWAR (Radio
+Masts 150 Ft. AGI.)</SimpleData>
+		<SimpleData name="Hours_OP">FIJ</SimpleData>
+		<SimpleData name="Lat_Y">3.11881903751</SimpleData>
+		<SimpleData name="Long_X">35.60830056850</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6083005685067,3.11881903750747,1715.000048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lokichar Airport</name>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Medium_Airfields">
+		<SimpleData name="OBJECTID_1">3</SimpleData>
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="id">42633</SimpleData>
+		<SimpleData name="ident">KE-6937</SimpleData>
+		<SimpleData name="type">medium_airport</SimpleData>
+		<SimpleData name="latitude_d">2.38333296800</SimpleData>
+		<SimpleData name="longitude_">35.65000153000</SimpleData>
+		<SimpleData name="elevation_">2440</SimpleData>
+		<SimpleData name="continent">AF</SimpleData>
+		<SimpleData name="iso_countr">KE</SimpleData>
+		<SimpleData name="iso_region">KE-700</SimpleData>
+		<SimpleData name="municipali">Lokichar</SimpleData>
+		<SimpleData name="scheduled_">0</SimpleData>
+		<SimpleData name="Object_ID">18</SimpleData>
+		<SimpleData name="score">50</SimpleData>
+		<SimpleData name="County">TURKANA</SimpleData>
+		<SimpleData name="Gnd_Surfac">5700 Kg; 0.31 Mpa Dry Murrum</SimpleData>
+		<SimpleData name="RWY_O">06/24; 1100 x 40</SimpleData>
+		<SimpleData name="Grnd_Servi">NIL</SimpleData>
+		<SimpleData name="Supervisor">Kenya Govt. Rep.
+Officer - DC
+Turkana, Tel. 21620
+LODWAR</SimpleData>
+		<SimpleData name="Hours_OP">No Records</SimpleData>
+		<SimpleData name="Lat_Y">2.38028043015</SimpleData>
+		<SimpleData name="Long_X">35.64960147430</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6496014742801,2.38028043015341,2440.000048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kakuma Airport</name>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Medium_Airfields">
+		<SimpleData name="OBJECTID_1">6</SimpleData>
+		<SimpleData name="OBJECTID">79</SimpleData>
+		<SimpleData name="id">42611</SimpleData>
+		<SimpleData name="ident">KE-6557</SimpleData>
+		<SimpleData name="type">medium_airport</SimpleData>
+		<SimpleData name="latitude_d">3.71666700000</SimpleData>
+		<SimpleData name="longitude_">34.86666900000</SimpleData>
+		<SimpleData name="elevation_">1906</SimpleData>
+		<SimpleData name="continent">AF</SimpleData>
+		<SimpleData name="iso_countr">KE</SimpleData>
+		<SimpleData name="iso_region">KE-700</SimpleData>
+		<SimpleData name="municipali">Kakuma</SimpleData>
+		<SimpleData name="scheduled_">0</SimpleData>
+		<SimpleData name="gps_code">HKKM</SimpleData>
+		<SimpleData name="Object_ID">80</SimpleData>
+		<SimpleData name="score">50</SimpleData>
+		<SimpleData name="County">TURKANA</SimpleData>
+		<SimpleData name="Gnd_Surfac">5700 Kg; 0.31 IMPa Murram</SimpleData>
+		<SimpleData name="RWY_O">12/30; 1334 x 30</SimpleData>
+		<SimpleData name="Grnd_Servi">WATER</SimpleData>
+		<SimpleData name="Supervisor">Kenya Govt Rep.
+Officer - DC Turkana
+Lodwar Tel. 21620
+Caution due unmarked
+RWYs</SimpleData>
+		<SimpleData name="Hours_OP">No Records</SimpleData>
+		<SimpleData name="Lat_Y">3.71343709577</SimpleData>
+		<SimpleData name="Long_X">34.86628879310</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.866288793108,3.71343709577172,1906.000048</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
