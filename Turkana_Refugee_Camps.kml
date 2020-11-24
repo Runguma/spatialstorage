@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Turkana_Refugee_Camps" id="Turkana_Refugee_Camps">
+	<SimpleField name="Id" type="int"></SimpleField>
+	<SimpleField name="Population" type="float"></SimpleField>
+	<SimpleField name="Lat" type="float"></SimpleField>
+	<SimpleField name="Long" type="float"></SimpleField>
+</Schema>
+<Folder><name>Turkana_Refugee_Camps</name>
+  <Placemark>
+	<name>Kalobeyei Refugee Settlement</name>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Refugee_Camps">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Population">0</SimpleData>
+		<SimpleData name="Lat">3.76921740000</SimpleData>
+		<SimpleData name="Long">34.73028210000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7302821,3.7692174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kakuma I Refugee Camp</name>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Refugee_Camps">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Population">0</SimpleData>
+		<SimpleData name="Lat">3.73801860000</SimpleData>
+		<SimpleData name="Long">34.83871930000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8387193,3.73801860000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kakuma IV Refugee Camp</name>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Refugee_Camps">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Population">0</SimpleData>
+		<SimpleData name="Lat">3.73902490000</SimpleData>
+		<SimpleData name="Long">34.80985880000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8098588,3.7390249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kakuma III Refugee Camp</name>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Refugee_Camps">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Population">0</SimpleData>
+		<SimpleData name="Lat">3.75407740000</SimpleData>
+		<SimpleData name="Long">34.81498720000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8149872,3.7540774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kakuma II Refugee Camp</name>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Refugee_Camps">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Population">0</SimpleData>
+		<SimpleData name="Lat">3.74923328328</SimpleData>
+		<SimpleData name="Long">34.83545683950</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8354568394927,3.74923328327859</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
