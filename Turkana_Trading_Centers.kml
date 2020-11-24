@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Turkana_Trading_Centers" id="Turkana_Trading_Centers">
+	<SimpleField name="TOWN" type="string"></SimpleField>
+	<SimpleField name="wanted" type="int"></SimpleField>
+	<SimpleField name="Pop" type="int"></SimpleField>
+	<SimpleField name="Lat" type="float"></SimpleField>
+	<SimpleField name="Long" type="float"></SimpleField>
+</Schema>
+<Folder><name>Turkana_Trading_Centers</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Kainuk</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">100000</SimpleData>
+		<SimpleData name="Lat">1.78879925856</SimpleData>
+		<SimpleData name="Long">35.52347562020</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.523475620202,1.78879925855975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Lolongot</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">100000</SimpleData>
+		<SimpleData name="Lat">1.74908378932</SimpleData>
+		<SimpleData name="Long">35.64682482570</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6468248256705,1.74908378932161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Kapedo</SimpleData>
+		<SimpleData name="wanted">2</SimpleData>
+		<SimpleData name="Pop">100000</SimpleData>
+		<SimpleData name="Lat">1.17587639790</SimpleData>
+		<SimpleData name="Long">36.09567243480</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.0956724348183,1.17587639790327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Napeitom</SimpleData>
+		<SimpleData name="wanted">2</SimpleData>
+		<SimpleData name="Pop">100000</SimpleData>
+		<SimpleData name="Lat">1.67968563873</SimpleData>
+		<SimpleData name="Long">36.04714509010</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.0471450901287,1.6796856387294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Lokori</SimpleData>
+		<SimpleData name="wanted">2</SimpleData>
+		<SimpleData name="Pop">100000</SimpleData>
+		<SimpleData name="Lat">1.96201016189</SimpleData>
+		<SimpleData name="Long">36.02121719370</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.0212171936654,1.96201016189309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Nadapal</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">100000</SimpleData>
+		<SimpleData name="Lat">4.39901053879</SimpleData>
+		<SimpleData name="Long">34.28696012530</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.2869601253209,4.39901053878662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Lokichogio</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">100000</SimpleData>
+		<SimpleData name="Lat">4.20670960000</SimpleData>
+		<SimpleData name="Long">34.35798440000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.3579844,4.20670959999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Kakuma</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">100000</SimpleData>
+		<SimpleData name="Lat">3.70760490000</SimpleData>
+		<SimpleData name="Long">34.86495940000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8649594,3.7076049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Loiya</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">100000</SimpleData>
+		<SimpleData name="Lat">2.52694094398</SimpleData>
+		<SimpleData name="Long">34.98727990950</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.9872799094993,2.52694094398216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Kagododoya</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">100000</SimpleData>
+		<SimpleData name="Lat">2.73184400467</SimpleData>
+		<SimpleData name="Long">35.11806695980</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.118066959849,2.73184400466792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Makutano</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">100000</SimpleData>
+		<SimpleData name="Lat">3.62423841989</SimpleData>
+		<SimpleData name="Long">35.30638603010</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.3063860300782,3.62423841988713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Lorukumu</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">100000</SimpleData>
+		<SimpleData name="Lat">2.89143175951</SimpleData>
+		<SimpleData name="Long">35.25447705990</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.2544770598991,2.8914317595121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Lodwar</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">100000</SimpleData>
+		<SimpleData name="Lat">3.11866880000</SimpleData>
+		<SimpleData name="Long">35.60148280000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6014828,3.11866880000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Lokichar</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">100000</SimpleData>
+		<SimpleData name="Lat">2.38083000934</SimpleData>
+		<SimpleData name="Long">35.64500949270</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6450094926791,2.3808300093422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Lokitung</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">100000</SimpleData>
+		<SimpleData name="Lat">4.27110222780</SimpleData>
+		<SimpleData name="Long">35.77736173040</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.7773617304344,4.27110222779912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Kalakol</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">100000</SimpleData>
+		<SimpleData name="Lat">3.53457428655</SimpleData>
+		<SimpleData name="Long">35.85441612950</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.8544161295143,3.53457428655359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Loperot</SimpleData>
+		<SimpleData name="wanted">2</SimpleData>
+		<SimpleData name="Pop">100000</SimpleData>
+		<SimpleData name="Lat">2.35179961108</SimpleData>
+		<SimpleData name="Long">35.87260218730</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.8726021872629,2.35179961108451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Nakodok</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">4.45523546520</SimpleData>
+		<SimpleData name="Long">34.20259491530</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.2025949153142,4.45523546519854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Kaikor</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">4.52714308876</SimpleData>
+		<SimpleData name="Long">35.42369566160</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4236956615905,4.52714308875505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Loareng'ak</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">4.28368857911</SimpleData>
+		<SimpleData name="Long">35.89088323570</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.8908832356812,4.28368857911337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Loruth</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">4.58639767894</SimpleData>
+		<SimpleData name="Long">35.77554293340</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.7755429334019,4.58639767893808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Kokuro</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">4.63922171327</SimpleData>
+		<SimpleData name="Long">35.72414657570</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.724146575676,4.63922171326751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Kaeris</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">3.99200690116</SimpleData>
+		<SimpleData name="Long">35.47959345070</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4795934506505,3.99200690116176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Kataboi</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">3.76548363193</SimpleData>
+		<SimpleData name="Long">35.83550535070</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.8355053507488,3.7654836319266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Lokwakangole</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">3.55561517121</SimpleData>
+		<SimpleData name="Long">35.90260615110</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.9026061511132,3.55561517121236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Kerio</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">3.00508979536</SimpleData>
+		<SimpleData name="Long">36.05954428030</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.0595442802781,3.00508979535917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Loichangamatak</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">2.65192286160</SimpleData>
+		<SimpleData name="Long">35.63784933510</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6378493351382,2.6519228615953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Changamatak</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">2.61056091422</SimpleData>
+		<SimpleData name="Long">35.65192894090</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6519289408712,2.6105609142164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Muriling</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">2.51912314631</SimpleData>
+		<SimpleData name="Long">35.97388546730</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.9738854672782,2.51912314630658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Nakurulas</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">2.22717257178</SimpleData>
+		<SimpleData name="Long">35.81709569990</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.8170956999276,2.22717257178497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Anglogitat</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">1.99301975648</SimpleData>
+		<SimpleData name="Long">35.45186976760</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4518697676459,1.99301975647658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Katilu</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">2.26990463734</SimpleData>
+		<SimpleData name="Long">35.49889830400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4988983039551,2.26990463734364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Nganukonharengak</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">2.34962850765</SimpleData>
+		<SimpleData name="Long">35.61610124240</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6161012424421,2.34962850765143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Angorangora</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">2.73994303129</SimpleData>
+		<SimpleData name="Long">35.36481044000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.364810440048,2.73994303128521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Kosipirr</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">2.89888393360</SimpleData>
+		<SimpleData name="Long">35.06027695500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.0602769550493,2.89888393360317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Lomelo</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">1.52260368783</SimpleData>
+		<SimpleData name="Long">35.91402756390</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.9140275639412,1.52260368783088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Letea</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">3.53921060000</SimpleData>
+		<SimpleData name="Long">34.80898370000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.8089837,3.53921059999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Oropoi</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">3.78672446865</SimpleData>
+		<SimpleData name="Long">34.26556135710</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.2655613571437,3.78672446864885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Lokiriama</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">2.91942038753</SimpleData>
+		<SimpleData name="Long">34.74428995350</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7442899534962,2.91942038753366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">3.32592332674</SimpleData>
+		<SimpleData name="Long">36.25892767330</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.2589276733032,3.32592332674089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">2.76341874496</SimpleData>
+		<SimpleData name="Long">36.72054310840</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.7205431084343,2.76341874496258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">3.95069047151</SimpleData>
+		<SimpleData name="Long">36.21514559080</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.215145590796,3.9506904715051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">4.27762841371</SimpleData>
+		<SimpleData name="Long">36.23085003340</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.2308500334345,4.27762841370619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">4.58321069338</SimpleData>
+		<SimpleData name="Long">35.88710714790</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.8871071478797,4.58321069337996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Eliye Springs</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">3.20028778563</SimpleData>
+		<SimpleData name="Long">36.11520822860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.1152082285511,3.20028778563304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Turkana_Trading_Centers">
+		<SimpleData name="TOWN">Kalobeyei</SimpleData>
+		<SimpleData name="wanted">0</SimpleData>
+		<SimpleData name="Pop">0</SimpleData>
+		<SimpleData name="Lat">3.76823487193</SimpleData>
+		<SimpleData name="Long">34.62191447340</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.6219144733951,3.76823487193485</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
